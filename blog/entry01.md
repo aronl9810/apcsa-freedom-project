@@ -17,6 +17,26 @@ After we decided to work together, we had to make sure that we need to get organ
 
 ![fp-e1-01](img/fp-e1-01.png)
 
+After setting up Trello, we went on to deciding which tool should be our main tool. We researched using google and came up with 5 engines we can use.
+
+* Unity (C#)
+* Godot (C# , C++)
+* Roblox (Lua)
+* Cry Engine (C# , C++ , Lua)
+* Unreal Engine (C++)
+
+We ultimately decided to use Unity as Unity provided excellent documentation with people who want to start with their program. Unlike the other engines documentation, unity makes it like a mini lesson and teaches you step by step in the documentation. This was the first. Usually with game engines in my experience, I would have to find a good youtube video tutorial to start. With Unity, I don't feel like I need an external source in order for me to get comfortable with the engine. It is essentially plug and play.
+
+But how did I determine which game engine was suit for me? To find out, I based it on a couple of things...
+
+* How easy it is to put a simple shape and modifying it
+* How was the documentation
+* What coding language do they use
+* How user friendly was it
+
+Sadly with the limited time we had, we have to skip out on Unreal Engine, Cry Engine , and Roblox. Unreal Engine was the obvious odd one out as it is not very beginner friendly and it uses the most difficult coding language which is C++. The other engines were skipped mainly because of time issues.
+
+
 
 [Next](entry02.md)
 
