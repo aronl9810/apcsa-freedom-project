@@ -36,6 +36,25 @@ But how did I determine which game engine was suit for me? To find out, I based 
 
 Sadly with the limited time we had, we have to skip out on Unreal Engine, Cry Engine , and Roblox. Unreal Engine was the obvious odd one out as it is not very beginner friendly and it uses the most difficult coding language which is C++. The other engines were skipped mainly because of time issues.
 
+I've started with Unity as it was the first thing on my list. The Unity Hub directed me to 2 guides which is the [Welcome to Unity Essentials](https://learn.unity.com/tutorial/welcome-to-unity-essentials) and [Get started with the Unity Hub](https://learn.unity.com/tutorial/get-started-with-the-unity-hub-1).
+
+The Unity Essential guide taught me the different versions of Unity. For instance, the newest version of Unity great but going back through older versions of Unity could be better in some instances. I've sticked to the newest version of Unirty for now to not complicate things further down the line.
+
+The Get started with the Unity Hub taught me how to navigate through the Unity menu and how each of them work. With this guide, I was able to create a shape and modifying it to my liking as shown in the picture below.
+
+![fp-e1-02](img/fp-e1-02.png)
+
+Although the guide didn't mention any coding, I wanted to see if the engine could pass the list I mentioned above and it passed. The shape was simple to create and the documentation was easy. Thus proving how user friendly it is.
+
+Now we move onto Godot and I was expecting a lot more from Godot honestly. I heard from a lot of people and my friends that Godot was very easy but I didn't see it that way. Creating a shape is very tricky for some reason and not very user friendly. Plus it doesn't even look like it is in the world geometry, it looks like it is transparent.
+
+![fp-e1-03](img/fp-e1-03.png)
+
+I've tried looking at guides but they weren't that helpful. With this information in mind, I've decided that Unity would be my main tool for now. I wished that I have the time to tinker with ROBLOX and Cry Engine but sadly the workload prevented me from doing that.
+
+### EDP
+
+Right now, we are currently [defining the problem](https://hstatsep.github.io/students/#edp). This is the beginning which we want to create a First Person Shooter game so it make sense that we are defining the problem first before we move on to any stages at the moment. What will happen in the upcoming weeks is that we will be researching the problem. This means learning the coding language of that engine and looking up assets we could use in our project.
 
 
 [Next](entry02.md)
