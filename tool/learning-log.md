@@ -22,6 +22,12 @@ Mega hiatus due to workload but I am back
     * Similar to Unity, I tried to navigate through the menu, checking guides , and modifying shapes.
     * Godot on documentation seems a bit lackluster compared to Unity. Unity gives you full indepth documentation for beginners while Godot feels lacking. It is trying to tell me what this is suppose to do but I'm often confused what am I'm supposed to do. Maybe I am doing it wrong?
 
+### 11/13/2023:
+
+* Calendar sync with Trello established
+* Linked tutorials on C# tutorials and linked basic Unity tutorial projects
+* Learned C# with this [youtube tutorial](https://www.youtube.com/watch?v=IFayQioG71A)
+    * Learned its almost but nearly idential to java.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
