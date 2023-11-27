@@ -28,6 +28,11 @@ Mega hiatus due to workload but I am back
 * Linked tutorials on C# tutorials and linked basic Unity tutorial projects
 * Learned C# with this [youtube tutorial](https://www.youtube.com/watch?v=IFayQioG71A)
     * Learned its almost but nearly idential to java.
+
+### 11/26/2023:
+* Complted the C# tutorial
+* Started a sample project for the FPS game before moving on to the main game. Will be using this [tutorial](https://www.youtube.com/watch?v=rJqP5EesxLk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=1)
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
