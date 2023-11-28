@@ -33,6 +33,14 @@ Mega hiatus due to workload but I am back
 * Complted the C# tutorial
 * Started a sample project for the FPS game before moving on to the main game. Will be using this [tutorial](https://www.youtube.com/watch?v=rJqP5EesxLk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=1)
 
+### 11/226/2023
+* Created the cards to start the sample project before moving on to the main project
+* Began the sample project by following the tutorial on the link at **11/26/2023**
+    * Created a player capsule and setting the camera position to 0 , 0.6 , 0
+    * Downloaded the input system
+
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
