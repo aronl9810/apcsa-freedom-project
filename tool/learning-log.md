@@ -32,13 +32,21 @@ Mega hiatus due to workload but I am back
 ### 11/26/2023:
 * Complted the C# tutorial
 * Started a sample project for the FPS game before moving on to the main game. Will be using this [tutorial](https://www.youtube.com/watch?v=rJqP5EesxLk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=1)
-
-### 11/226/2023
 * Created the cards to start the sample project before moving on to the main project
 * Began the sample project by following the tutorial on the link at **11/26/2023**
     * Created a player capsule and setting the camera position to 0 , 0.6 , 0
     * Downloaded the input system
 
+### 11/30/2023
+* Nothing much really happened aside from Trello Board updating to make it more presentable.
+
+### 12/2/2023
+* Made the input system.
+    * This was accomplished by making the input folder in the asset folder followed by creating the "Input Actions" and naming it PlayerInput.
+    * By using the actionmap, I was able to make movement for both keyboard and controller by using the 2D Vector Composite
+        * NOTE: There wasn't a "Add 2D Vector Composite option" in the Actions tab. The workaround for this was to set the Action type to "Value" then the Control Type to "Vector 2". Then you will see the option but renamed to "Add Up/Down/Left/Right Composite" .
+    * Added the C# File named PlayerInput in the input folder.
+    * Made some flooring and some blocks for the player to jump at. 
 
 
 <!--
