@@ -45,8 +45,19 @@ Mega hiatus due to workload but I am back
     * This was accomplished by making the input folder in the asset folder followed by creating the "Input Actions" and naming it PlayerInput.
     * By using the actionmap, I was able to make movement for both keyboard and controller by using the 2D Vector Composite
         * NOTE: There wasn't a "Add 2D Vector Composite option" in the Actions tab. The workaround for this was to set the Action type to "Value" then the Control Type to "Vector 2". Then you will see the option but renamed to "Add Up/Down/Left/Right Composite" .
+        * The source is listed [here](https://www.reddit.com/r/Unity3D/comments/s5t1bs/unity_isnt_showing_the_add_2d_vector_composite/). Thank goodness!
     * Added the C# File named PlayerInput in the input folder.
-    * Made some flooring and some blocks for the player to jump at. 
+    * Made some flooring and some blocks for the player to jump at.
+
+### 12/3/2023
+* Little configuration to make sure Unity targets VScode instead of VSeditor.
+* Created the inputManager Code
+    * You can check it out [here](codesnippits/inputmanagersnippit.cs)
+        * There seems to be an error on lines 11 to 13 saying "The type or namespace name 'PlayerMotor' could not be found (are you missing a using directive or an assembly reference?)". Will check it out later.
+* Created the PlayerMotto code.
+    * You can check it out [here](codesnippits/playermansnippit.cs)
+
+
 
 
 <!--
