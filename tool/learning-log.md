@@ -57,6 +57,17 @@ Mega hiatus due to workload but I am back
 * Created the PlayerMotto code.
     * You can check it out [here](codesnippits/playermansnippit.cs)
 
+### 12/4/2023
+* Fixed the error related to the PlayerMotor
+    * I named PlayerMotor to PlayerMotto and that caused the issue LOL
+
+### 12/5/2023
+* Learned about the input debugger
+    * This ensures that the game is officially sending in the right inputs
+* Encountered a bug related to the onEnable and onDisable
+    * I do not know what could've caused this so I've asked the Natty GameDev Discord Community. I haven't gotten a response yet but it might take a while. 
+
+
 
 
 
