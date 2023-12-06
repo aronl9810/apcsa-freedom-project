@@ -65,7 +65,8 @@ Mega hiatus due to workload but I am back
 * Learned about the input debugger
     * This ensures that the game is officially sending in the right inputs
 * Encountered a bug related to the onEnable and onDisable
-    * I do not know what could've caused this so I've asked the Natty GameDev Discord Community. I haven't gotten a response yet but it might take a while. 
+    * I do not know what could've caused this so I've asked the Natty GameDev Discord Community. I haven't gotten a response yet but it might take a while.
+    * Retraced my steps and learned that in the inputmanager, I have to change `void Start` to `void Awake` on my own.
 
 
 
