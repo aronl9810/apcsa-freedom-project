@@ -68,8 +68,39 @@ Mega hiatus due to workload but I am back
     * I do not know what could've caused this so I've asked the Natty GameDev Discord Community. I haven't gotten a response yet but it might take a while.
     * Retraced my steps and learned that in the inputmanager, I have to change `void Start` to `void Awake` on my own.
 
+### 12/10/2023
+* Added gravity
+    * This is done by adding the following code in the PlayerMotor...
+    ```cs
+    private bool isGrounded;
+    public float gravity = -9.8f;
+    void Update()
+    {
+        isGrounded = controller.isGrounded;
+    }
+    playerVelocity.y += gravity * Time.deltaTime;
+    if(isGrounded && playerVelocity.y < 0){
+        playerVelocity.y = -2f;
+    }
+    controller.Move(playerVelocity * Time.deltaTime);
+    Debug.Log(playerVelocity.y);
 
-
+    ```
+* Added the jump function.
+    * Made another method called jump in the PlayerMotor
+    ```cs
+    public void Jump(){
+        if(isGrounded){
+            playerVelocity.y = Mathf.Sqrt(jumpHeight * -3.0f * gravity);
+        }
+    }
+    ```
+    then assign it to the input manager
+    ```cs
+    onFoot.Jump.performed += ctx => motor.Jump();
+    ```
+* Added the ability for the player to look around.
+    * Here is the [main code](codesnippits/playerlooksnippit.cs) but there were adjustments made to the playerMotor and InputManger for the newly added playerlook code.
 
 
 <!--
