@@ -102,6 +102,10 @@ Mega hiatus due to workload but I am back
 * Added the ability for the player to look around.
     * Here is the [main code](codesnippits/playerlooksnippit.cs) but there were adjustments made to the playerMotor and InputManger for the newly added playerlook code.
 
+## 12/11/2023
+* Getting ready for Video 2
+    * Making an interactable door.
+
 
 <!--
 * Links you used today (websites, videos, etc)
