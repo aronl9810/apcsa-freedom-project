@@ -58,9 +58,10 @@ I'm assuming that FixedUpdate is somewhat similar to 0 or 1's so that it will kn
 
 This took me a while to realize the error. [Attention to detail](https://hstatsep.github.io/students/#skills) was critical here because when I rewatched the video and retraced my steps, I missed this. In the near future, I will make sure to carefully watch the little details I notice in the tutorials.
 
+As I keep tinkering, the [growth mindset](https://hstatsep.github.io/students/#skills) comes to play. When I make mistakes, I need to not rush to the solution. I need to know why in order to get to the solution. All of these mistakes is still teaching me what to expect with Unity, even though they are slowing down my progress. I also need to know that I am not alone. There are plenty of people who are willing to help with my issue so I will use Discord communities and Slack to ask any help if possible.
 
-
-
+### EDP
+Right now, we are currently [Researching the Problem](https://hstatsep.github.io/students/#edp). We are basically watching a tutorial and recreating it. Once we are done with our mini project, we will go on to Brainstorming possible solutions and Plan the most promising solution. This could range in adding more features like movement, guns , mechanics , etc.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
