@@ -114,6 +114,9 @@ Mega hiatus due to workload but I am back
 * Made interactable scripts using the keypad I built using the door model
     * There are multiple scripts that go into the interactable but the common one being that you need the [playerInteract](codesnippits/playerinteractsnippit.cs) and [playerUI](codesnippits/playeruisnippit.cs) script.
     * The [keypad](codesnippits/keypadsnippit.cs) requires a seperate script but it is always inheriting one of the scripts.
+    * Animated the door and changed some scripts.
+        * Several variable changes but had to make some public so that other files can recognize.
+        * Here is the [door demo](codesnippits/demo1.mp4)!
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
