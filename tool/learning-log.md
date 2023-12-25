@@ -106,7 +106,14 @@ Mega hiatus due to workload but I am back
 * Getting ready for Video 2
     * Making an interactable door.
 
+## 12/18/2023
+* Finished the interactable door model.
 
+## 12/25/2023
+* Started watching Video 2
+* Made interactable scripts using the keypad I built using the door model
+    * There are multiple scripts that go into the interactable but the common one being that you need the [playerInteract](codesnippits/playerinteractsnippit.cs) and [playerUI](codesnippits/playeruisnippit.cs) script.
+    * The [keypad](codesnippits/keypadsnippit.cs) requires a seperate script but it is always inheriting one of the scripts.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
