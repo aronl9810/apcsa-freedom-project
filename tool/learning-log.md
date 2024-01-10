@@ -117,6 +117,19 @@ Mega hiatus due to workload but I am back
     * Animated the door and changed some scripts.
         * Several variable changes but had to make some public so that other files can recognize.
         * Here is the [door demo](codesnippits/demo1.mp4)!
+
+## 12/27/2023
+* Started watching Video 2.5
+    * This is basically interactions but made easier for smaller things
+
+## 1/8/2024
+NEW YEAR! WHOOOOOO!!!
+
+* Prepping for a main Github repo for our main project.
+    * Since me and Xin Yan didn't finish all the tutorials, all tutorials going forward will get directed towards the main project.
+    * Will take some time to setup since Xin Yan doesn't have WSL installed on her computer.
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
