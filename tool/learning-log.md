@@ -129,6 +129,22 @@ NEW YEAR! WHOOOOOO!!!
     * Since me and Xin Yan didn't finish all the tutorials, all tutorials going forward will get directed towards the main project.
     * Will take some time to setup since Xin Yan doesn't have WSL installed on her computer.
 
+## 1/22/2024
+This is another major heitis but we are back!
+
+* Created the repo for our [main project](https://github.com/aronl9810/apcsa-project-aron-xinyan)
+    * This is where me and Xin Yan will collab in one repo.
+* Helped setup Xin Yan VScode editor on her computer
+    * This is done using the same method (Installing WSL and following Muellers VScode setup)
+* Planned out future goals
+    * You can see here! ![ll01](img/learninglog1.png)
+
+## 1/24/2024
+* Started 2 initial sketches of the map design
+    * ![ll01](img/learninglog2.jpeg)
+    * ![ll01](img/learninglog3.jpeg)
+    * Currently awaiting Xin Yan's feedback but until then, working on importing the character data from the sample project. 
+
 
 <!--
 * Links you used today (websites, videos, etc)
