@@ -143,7 +143,14 @@ This is another major heitis but we are back!
 * Started 2 initial sketches of the map design
     * ![ll01](img/learninglog2.jpeg)
     * ![ll01](img/learninglog3.jpeg)
-    * Currently awaiting Xin Yan's feedback but until then, working on importing the character data from the sample project. 
+    * Currently awaiting Xin Yan's feedback but until then, working on importing the character data from the sample project.
+
+## 1/25/2024
+* Imported the sample project to the main project
+    * This is to save time on rebuilding the character data again.
+
+## 2/5/2024
+* Started working on the map
 
 
 <!--
