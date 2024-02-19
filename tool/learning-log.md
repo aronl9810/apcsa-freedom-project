@@ -141,8 +141,8 @@ This is another major heitis but we are back!
 
 ## 1/24/2024
 * Started 2 initial sketches of the map design
-    * ![ll01](img/learninglog2.jpeg)
-    * ![ll01](img/learninglog3.jpeg)
+    * ![ll02](img/learninglog2.jpeg)
+    * ![ll03](img/learninglog3.jpeg)
     * Currently awaiting Xin Yan's feedback but until then, working on importing the character data from the sample project.
 
 ## 1/25/2024
@@ -152,7 +152,24 @@ This is another major heitis but we are back!
 ## 2/5/2024
 * Started working on the map
 
+# 2/12/2024
+* Started our MVP planning progress.
+    * This is where Mueller assigned us what are we gonna do to make our product minimally viable.
 
+# 2/13/2024
+* Continued planning what we are gonna do for our MVP.
+    * Here is our current plan as of this moment
+    * ![ll05](img/learninglog5.png)
+
+# 2/14/2024
+* Imported the MVP/BMVP plans to the trello board.
+    * ![ll06](img/learninglog6.png)
+
+# 2/18/2024
+* Continued working on the map
+    * Removed the interactable door (For now)
+    * During this day, it is almost complete but here is the result.
+    * ![ll04](img/learninglog4.png)
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
