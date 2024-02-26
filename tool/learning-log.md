@@ -170,6 +170,35 @@ This is another major heitis but we are back!
     * Removed the interactable door (For now)
     * During this day, it is almost complete but here is the result.
     * ![ll04](img/learninglog4.png)
+
+# 2/22/2024
+* Added the sprint functionality
+    * The sprint functionality from Natty's Gamedev video only allows you to sprint if you only click on the sprint key. However, I wanted the plauer to hold down the shift key to sprint and once they release it, they stop sprinting.
+        * To accompish this, I've messed around with the code a bit and this is what I've came out.
+```cs
+    void Update()
+    {
+        isGrounded = controller.isGrounded;
+        if(sprinting){
+            if(Input.GetKey(KeyCode.LeftShift)){
+                speed = 10f;
+            } else {
+                speed = 5f;
+                sprinting = false;
+            }
+        }
+    }
+    // ...
+
+    public void Sprint(){
+        sprinting = !sprinting;
+    }
+```
+
+# 2/26/2024
+* Sick so missed a MVP work day x_x
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
