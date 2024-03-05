@@ -198,6 +198,16 @@ This is another major heitis but we are back!
 # 2/26/2024
 * Sick so missed a MVP work day x_x
 
+# 3/4/2024
+We are heading into March!!!
+
+* Relocated the dates for the projects
+    * Due to how busy me and Xin Yan have been, the following dates were changed to the following
+        * Make the player shoot was moved to Mar/16
+        * Make items was moved to Mar/30
+        * AI Patrol State / Follow Player was moved to Mar/24
+        * Ammo boxes were moved to Apr/6
+        * Main Menu now has a deadline which is Apr/20
 
 <!--
 * Links you used today (websites, videos, etc)
