@@ -209,6 +209,12 @@ We are heading into March!!!
         * Ammo boxes were moved to Apr/6
         * Main Menu now has a deadline which is Apr/20
 
+# 3/6/2024
+
+* Worked and finished a simple gun model
+    * Coding the gun hasn't begun but wanted to make this model as a start
+    * ![ll07](img/learninglog7.png)
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
