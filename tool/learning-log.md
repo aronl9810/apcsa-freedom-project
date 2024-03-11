@@ -215,6 +215,12 @@ We are heading into March!!!
     * Coding the gun hasn't begun but wanted to make this model as a start
     * ![ll07](img/learninglog7.png)
 
+# 3/8/2024
+
+* Polished and finished the gun model
+    * Took a bit but its here!
+    * ![ll08](img/learninglog8.png)
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
