@@ -221,6 +221,11 @@ We are heading into March!!!
     * Took a bit but its here!
     * ![ll08](img/learninglog8.png)
 
+# 3/11/2024
+
+* Blog #4 writing
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
