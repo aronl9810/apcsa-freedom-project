@@ -24,9 +24,37 @@ Me and Xin Yan decided we should go for the second one and that is what exactly 
 
 ![ll4](../tool/img/learninglog4.png)
 
-This was the progress I was making. It took me a couple of days but I managed to build the final map. 
+This was the progress I was making. It took me a couple of days but I managed to build the final map.
 
 ![fp-e4-01](img/fp-e4-01.png)
+
+Now that the final map was done, it was time to make the player the ability to sprint. Using our beloved Natty's Gamedev Tutorial, we were able to create the sprint functionality. However, there was a problem with the sprint functionality. It is press to sprint. What this means is that if the player presses the sprint button, the character would contantly sprint until the key is pressed down again. While this was fine, it was certainly unintuitive cause most gamers are used to the regular sprint functionality.
+
+The regular sprint functionality is where the player would hold down the key in order to continue sprinting. Once the key is let go, the player will stop spritning. I want to try to replicate this functionality so I went to Google for answers. I stumbled across the [Unity documentation page](https://docs.unity3d.com/ScriptReference/Input.GetKey.html) to noticed that there was a key detection code, just like the one in javascript.
+
+With this information, I got into coding. To make sure it was constantly updating, I put the code in the update method. This method will constantly run and repeat whatever you put in this code. Think of it like a never ending while loop.
+
+```cs
+    void Update()
+    {
+        isGrounded = controller.isGrounded;
+        if(sprinting){
+            if(Input.GetKey(KeyCode.LeftShift)){
+                speed = 10f;
+            } else {
+                speed = 5f;
+                sprinting = false;
+            }
+        }
+    }
+    // ...
+
+    public void Sprint(){
+        sprinting = !sprinting;
+    }
+```
+
+
 
 [Previous](entry03.md) | [Next](entry05.md)
 
