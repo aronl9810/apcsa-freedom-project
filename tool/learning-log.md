@@ -229,7 +229,7 @@ We are heading into March!!!
 # 3/12/2024
 
 * Blog #4 writing part 2
-    * Progress can be seen [here]()
+    * Progress can be seen [here](https://github.com/aronl9810/apcsa-freedom-project/commit/444dc5ffc1044b7e0f3048c05211133b5b6385f2)
 
 <!--
 * Links you used today (websites, videos, etc)
