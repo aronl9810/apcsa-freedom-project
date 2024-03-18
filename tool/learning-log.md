@@ -235,6 +235,15 @@ We are heading into March!!!
 
 * Blog #4 writing Finished
     * The blog is completed, check [Entry 4](../blog/entry04.md) for the completed log.
+
+# 3/17/2024
+
+* Finished coding the gun as well as adding in the muzzle flash as a indicator for the player to know that their gun is actually firing.
+    * This is done using two tutorials, listed as the following.
+        * [Weapon system](https://www.youtube.com/watch?v=47ZkulgnadI) by RyTech
+        * [Muzzle flash](https://www.youtube.com/watch?v=rf7gHVixmmc) by CG Smoothie
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
