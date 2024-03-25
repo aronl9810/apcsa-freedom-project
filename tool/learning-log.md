@@ -243,6 +243,36 @@ We are heading into March!!!
         * [Weapon system](https://www.youtube.com/watch?v=47ZkulgnadI) by RyTech
         * [Muzzle flash](https://www.youtube.com/watch?v=rf7gHVixmmc) by CG Smoothie
 
+# 3/24/2024
+* Finalized the reload sequence of the script.
+    * Currently working on so that the UI reflects on the ammo and your reloads but this was done by the help of a simple [timer script](https://discussions.unity.com/t/simple-timer/56201/2).
+
+```java
+        if(Input.GetKeyDown(KeyCode.R)){
+            if(Ammo != startingAmmo){
+                Reload();
+            }
+        }
+
+        if(isreloading){
+            reloadTime -= Time.deltaTime;
+        }
+
+        if(reloadTime <= 0f){
+            FinishReload();
+        }
+    }
+
+    public void Reload(){
+        isreloading = !isreloading;
+    }
+
+    public void FinishReload(){
+        Ammo = startingAmmo;
+        isreloading = false;
+        reloadTime = currentReloadTime;
+    }
+```
 
 <!--
 * Links you used today (websites, videos, etc)
